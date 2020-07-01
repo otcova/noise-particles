@@ -1,5 +1,4 @@
 let p;
-console.log("Whaiting for P5...");
 
 function startP5() {
     if (typeof p5 == "undefined") {
